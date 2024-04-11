@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-color: black; */
+    
+}
+body{
+    background-color: #191717;
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #7D7C7C;
+    list-style: none;
+    padding: 5px 0px;
+    margin: 0px 0px 0px 0px;
+    /* border-radius: 20px; */
+}
+
+ul a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+ul a:hover{
+            color: black;
+            
+}
+.first{
+        color: white;
+        margin: 20px;
+        display: flex;
+        padding: 0px 10px;
+        
+}
+.image1{
+        height: 410px;
+        width: 370px;
+}
+h1{
+    padding-left: 10px;
+    margin: 20px 0px 50px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    text-decoration-line: underline;
+}
+.second{
+    display: flex;
+    justify-content: space-evenly;
+}
+p{
+    color: white;
+    padding: 0px 20px;
+    font-size: 19px;
+    
+}
+.second{
+        display: flex;
+        margin-top: 80px;
+}
+.image2{
+    height: 410px;
+    width: 370px;
+}
+.image3{
+    height: 426px;
+    width: 370px;
+    padding-top: 5px;
+    padding-left: 25px;
+}    
+
+.third{
+    display: flex;
+    margin-top: 80px;
+}
+.image4{
+    height: 426px;
+    width: 370px;
+    padding-top: 5px;
+    
+}
+.fourth{
+    display: flex;
+    margin-top: 80px;
+    padding-right: 25px;
+
+}
+.image5{
+    height: 447px;
+    width: 370px;
+    margin-top: 5px;
+}
+.fifth{
+    display: flex;
+    padding-top: 80px;
+    padding-right: 25px;
+    margin-left: 25px;
+}
+.storylineheading{
+        font-size: 80px;
+       
+}
+#storylineimage{
+    display: block;
+    margin: auto;
+    padding-bottom: 20px;
+    
+}
+/* .container{
+        padding: 0px 40px ;
+} */
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    position: relative;
+    top: -40px;
+}
+
+
+#good{
+    /* margin-top: 30px; */
+    /* height: 300px; */
+    width: 410px;
+}
+
+#bad{
+    margin-bottom: 60px;
+    width: 400px;
+}
